@@ -1,0 +1,10 @@
+ContinuousEquipment, Sword of Power, Rare, 1000, Attack, 1.5
+ContinuousEquipment, Sword of Bliss, Rare, 1500, Health, 2
+ContinuousEquipment, Shield of Valor, Epic, 1400, Health, 2.0
+ContinuousEquipment, Boots of Swiftness, Rare, 1200, Speed, 1.75
+ContinuousEquipment, Armor of Fortitude, Common, 800, Health, 1.25
+ContinuousEquipment, Helm of Insight, Rare, 1100, Strength, 1.8
+ContinuousEquipment, Gauntlets of Might, Epic, 1500, Strength, 2.25
+ContinuousEquipment, Cloak of Shadows, Rare, 900, Speed, 1.5
+ContinuousEquipment, Amulet of Resilience, Common, 600, Health, 0.75
+ContinuousEquipment, Ring of Agility, Common, 200, Speed, 0.25
